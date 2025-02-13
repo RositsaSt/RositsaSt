@@ -9,12 +9,21 @@
 </div>
 
 
-About me:
+👩‍💻 About me:
 - 🏰 Currently based in the historical city of Potsdam, Germany but alwways up for an adventure elsewhere!
 - 👩‍🎓 Holding a PhD in Organic Chemistry
-- 📚 Recently finished Le Wagon's Data Science and AI Bootcamp
+- 🎯 Recently finished Le Wagon's Data Science and AI Bootcamp
 - 🌱 Currently learning Power BI and Azure and honing my Python skills
 - 👥 You can connect with me on LinkedIn and we can explore exciting possibilities together
 - 🎾 Fun fact: I recently found my passion for playing tennis and badminton
+
+---
+📚 Tech Stack:
+
+<div align="center>
+  <a href=""https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,vscode,pycharm,sqlite,numpy,pandas,sklearn,tensorflow,mlflow,git,docker,gcp,streamlit" alt="tech stack"/>
+  </a>
+</div>
 
 ---
